@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "userName": "Propietario",
+        "userPass": "admin",
+        "userMail": "test@gmail.com",
+        "userRol": "Propietario"
+    },
+    {
+        "id": 1,
+        "userName": "Inquilino",
+        "userPass": "admin",
+        "userMail": "test2@gmail.com",
+        "userRol": "Inquilino"
+    },
+    {
+        "id": 2,
+        "userName": "Inmobiliaria",
+        "userPass": "admin",
+        "userMail": "test2@gmail.com",
+        "userRol": "Inmobiliaria"
+    }
+]

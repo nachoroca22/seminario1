@@ -1,0 +1,222 @@
+[
+    {
+        "prop_id": 0,
+        "direccion": "Av. Cabildo 2955",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "precio": 65000,
+        "expensas": 15000,
+        "piso": 5,
+        "depto": "D",
+        "sup_total": "62 mt2",
+        "sup_cubierta": "50 mt2",
+        "ambientes": 3,
+        "baños": 2,
+        "cocheras": 0,
+        "dormitorios": 1,
+        "toilettes": 0,
+        "antiguedad": "1 año",
+        "estado_inmueble": "A estrenar",
+        "descripcion": "Departamento 3 ambientes",
+        "servicios": [
+            "ABL",
+            "Agua corriente",
+            "Electricidad",
+            "Vigilancia",
+            "Gas natural"
+        ],
+        "instalaciones": [
+            "Aire acondicionado",
+            "Calefacción",
+            "Amoblado",
+            "Cocina equipada",
+            "Lavarropas",
+            "Microondas"
+        ],
+        "estado": "Alquilado",
+        "miniatura": "/department3.jpg",
+        "contrato_vigente": true,
+        "contrato": {
+            "locatario": {
+                "apellido": "Diaz",
+                "nombre": "Juan",
+                "DNI": 35492724,
+                "sexo": "M",
+                "telefono": 114543456,
+                "cant_inquilinos": 2
+            },
+            "locador": {
+                "apellido": "Aguirre",
+                "nombre": "Pablo",
+                "DNI": 34234567,
+                "domicilio": "Cordoba 2057",
+                "telefono": 114541236
+            },
+            "garante": {
+                "apellido": "Di Martino",
+                "nombre": "Leonardo",
+                "DNI": 35456758,
+                "telefono": 113432344,
+                "domicilio": "Bulnes 1655",
+                "ciudad": "Buenos Aires",
+                "provincia": "Buenos Aires",
+                "sexo": "M"
+            },
+            "condiciones": {
+                "inicio_contrato": "2020-11-1",
+                "fin_contrato": "2022-10-31",
+                "direccion_inmueble": "Av. Cabildo 2955",
+                "piso": 5,
+                "depto": "D",
+                "ciudad": "Buenos Aires",
+                "provincia": "Buenos Aires",
+                "precio_arg": 15000,
+                "precio_usd": 400
+            }
+        }
+    },
+    {
+        "prop_id": 1,
+        "direccion": "French 3031",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "precio": 40000,
+        "expensas": 9000,
+        "piso": 9,
+        "depto": "A",
+        "sup_total": "42 mt2",
+        "sup_cubierta": "40 mt2",
+        "ambientes": 2,
+        "baños": 1,
+        "cocheras": 0,
+        "dormitorios": 1,
+        "toilettes": 0,
+        "antiguedad": "10 años",
+        "estado_inmueble": "Nuevo",
+        "descripcion": "Departamento 2 ambientes",
+        "servicios": [
+            "ABL",
+            "Agua corriente",
+            "Electricidad",
+            "Vigilancia"
+        ],
+        "instalaciones": [
+            "Aire acondicionado",
+            "Calefacción",
+            "Cocina equipada",
+            "Piscina"
+        ],
+        "estado": "Desocupado",
+        "miniatura": "/department.jpg",
+        "contrato_vigente": false,
+        "contrato": {
+            "locatario": {
+                "apellido": "Diaz",
+                "nombre": "Juan",
+                "DNI": 35492724,
+                "sexo": "M",
+                "telefono": 114543456,
+                "cant_inquilinos": 2
+            },
+            "locador": {
+                "apellido": "Aguirre",
+                "nombre": "Pablo",
+                "DNI": 34234567,
+                "domicilio": "Cordoba 2057",
+                "telefono": 114541236
+            },
+            "garante": {
+                "apellido": "Di Martino",
+                "nombre": "Leonardo",
+                "DNI": 35456758,
+                "telefono": 113432344,
+                "domicilio": "Bulnes 1655",
+                "cuiudad": "CABA",
+                "provincia": "Buenos Aires",
+                "sexo": "M"
+            },
+            "condiciones": {
+                "inicio_contrato": "2020-10-01",
+                "fin_contrato": "2022-09-30",
+                "direccion_inmueble": "French 3031",
+                "piso": 9,
+                "depto": "A",
+                "ciudad": "",
+                "provincia": "",
+                "precio_arg": 15000,
+                "precio_usd": 400
+            }
+        }
+    },
+    {
+        "prop_id": 2,
+        "direccion": "Av. Coronel Díaz 1763",
+        "tipo": "PH",
+        "operacion": "Alquiler",
+        "precio": 33000,
+        "expensas": 6500,
+        "piso": 4,
+        "depto": "D",
+        "sup_total": "45 mt2",
+        "sup_cubierta": "41 mt2",
+        "ambientes": 2,
+        "baños": 1,
+        "cocheras": 0,
+        "dormitorios": 1,
+        "toilettes": 0,
+        "antiguedad": "15 años",
+        "estado_inmueble": "Nuevo",
+        "descripcion": "Departamento 1 ambiente",
+        "servicios": [
+            "ABL",
+            "Agua corriente",
+            "Electricidad",
+            "Gas natural"
+        ],
+        "instalaciones": [
+            "Aire acondicionado",
+            "Calefacción"
+        ],
+        "estado": "Desocupado",
+        "miniatura": "/department2.jpg",
+        "contrato_vigente": false,
+        "contrato": {
+            "locatario": {
+                "apellido": "Diaz",
+                "nombre": "Juan",
+                "DNI": 35492724,
+                "sexo": "M",
+                "telefono": 114543456,
+                "cant_inquilinos": 2
+            },
+            "locador": {
+                "apellido": "Aguirre",
+                "nombre": "Pablo",
+                "DNI": 34234567,
+                "domicilio": "Cordoba 2057",
+                "telefono": 114541236
+            },
+            "garante": {
+                "apellido": "Di Martino",
+                "nombre": "Leonardo",
+                "DNI": 35456758,
+                "telefono": 113432344,
+                "domicilio": "Bulnes 1655",
+                "cuiudad": "CABA",
+                "provincia": "Buenos Aires",
+                "sexo": "M"
+            },
+            "condiciones": {
+                "inicio_contrato": "2020-10-01",
+                "fin_contrato": "2022-09-30",
+                "direccion_inmueble": "Av. Coronel Diaz 1763",
+                "piso": 4,
+                "depto": "D",
+                "ciudad": "",
+                "provincia": "",
+                "precio_arg": 15000,
+                "precio_usd": 400
+            }
+        }
+    }
+]

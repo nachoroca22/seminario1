@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body { 
+  font-family: 'Roboto', sans-serif !important;
+}
+/******* Menu lateral perfil propietario *******/
+
+#sidebar-wrapper {
+  min-height: 90vh;
+}
+
+/***** Fin menu lateral perfil propietario *****/
+
+/******************* Colores *******************/
+.fondo-login {
+  background-color: #114257 !important;
+}
+
+.color-alquilar {
+  background-color: #114257 !important;
+  border-color: #114257 !important;
+}
+
+.color-alquilar-btn {
+  background-color: #114257 !important;
+  border-color: #114257 !important;
+  color: white !important;
+}
+
+.color-alquilar-btn:focus{
+  background-color: #517d90 !important;
+  border-color: #517d90 !important;
+}
+
+.color-alquilar-btn:hover {
+  background-color: #377f9e !important;
+  border-color: #377f9e !important;
+}
+
+.alquilar-btn-outline {
+  background-color: white !important;
+  border-color: #114257 !important;
+  color: #114257 !important;
+}
+
+.alquilar-btn-outline:hover {
+  background-color: #114257 !important;
+  border-color: #114257 !important;
+  color: white !important;
+}
+
+.alquilar-btn-outline:focus {
+  box-shadow: 0 0 0 0.2rem rgb(17 66 89 / 67%) !important;
+}
+
+.alquilar-btn-publication:focus {
+  box-shadow: none !important;
+}
+
+.color-lateralNav-btn:focus {
+  background-color:#f8f9fa !important;
+  border-color: #f8f9fa !important;
+}
+
+.alquilar-btn-login {
+  background-color: #114257 !important;
+  border-color: #114257 !important;
+  color: white !important;
+}
+
+.alquilar-btn-login:hover {
+  background-color: #377f9e !important;
+  border-color: #377f9e !important;
+}
+
+/***************** Fin colores *****************/
+
+/************ Imagen Publicaciones *************/
+.contenedor-img {
+  border-radius: 30px; 
+  width: 7.3em;
+}
+/*********** Fin Imagen Publicaciones **********/
+
+/*************** Estilos Iconos ****************/
+.ico-publication {
+  font-size: 45px;
+}
+
+.ico-success {
+  color:#148F77;
+}
+
+.ico-error {
+  color:#dc3545;
+}
+
+.ico-pending {
+  color: #17a2b8;
+}
+
+.ico-no-property {
+  font-size: 160px;
+}
+
+.claim-ico {
+  font-size: 50px;
+}
+
+.newProp-ico {
+  font-size: 40px;
+  color: #6c757d !important
+}
+/************** Fin Estilos Iconos *************/
+
+.rr22 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  color: #4a4a4a;
+}
+
+.footer-color {
+  background-color:#26272b;
+  padding: 15px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #737373;
+}
+
+.footer-size-img {
+  width: 3em;
+}
+
+.pad-left {
+  padding-left: 3px !important;
+  padding-right: 3px !important;
+}
+
+.size-4-5 {
+  font-size: 4.5rem;
+  margin-bottom: 0px;
+  color: #4a4a4a;
+}
+
+.size-1em {
+  font-size: 1rem;
+}
+
+.vl {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  height: 100%;
+}
+
+.color-success {
+  background-color: #148F77 !important;
+}
+
+.size-120 {
+  font-size: 120px;
+}
+
+.img-uploadFile {
+  height: 126px !important;
+}
+
+.btn-new-prop {
+  font-size: 12.8px !important;
+}
+
+.mbottom-1 {
+  margin-bottom: 1px;
+}
+
+.padding-cero {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.btn-link-Alquilar:focus {
+  box-shadow: none !important;
+}
+
+.no-padding {
+  margin-top: 0.3rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.claim:hover {
+  color: #005fbe;
+}
+
+.claim-nav {
+  padding: 0rem 0rem !important;
+}
+
+.claim-confirm {
+  margin-bottom: 1px;
+}
